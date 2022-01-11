@@ -638,7 +638,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #302f2f!important;
 }
 
 .container {
@@ -661,8 +661,7 @@ a {
 }
 
 p {
-    font-size: 13px;
-
+    font-size: 14px;
 }
 
 
@@ -758,7 +757,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background:#303030;
     color: #FFFFFF!important;
 }
 
@@ -791,11 +790,11 @@ h4 {
 
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img/la-chouette-agence-banniere.webp");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.jpg");
+    background-image: url("img/image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {
